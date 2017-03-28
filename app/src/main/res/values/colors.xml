@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fullscreen_line_color">#E5FFFFFF</color>
+    <color name="fullscreen_secondary_line_color">#E5CCCCCC</color>
+    <color name="background_gradient_start">#000000</color>
+    <color name="background_gradient_end">#DDDDDD</color>
+</resources>
